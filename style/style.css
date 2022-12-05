@@ -140,6 +140,9 @@ h2 img{
         width: 700px;
 
     }
+    .principal img {
+        width: 500px;
+    }
 
 
 }
@@ -178,9 +181,13 @@ h2 img{
         width: 400px;
         
     }
+        .principal img {
+            width: 400px;
+        }
 
 
 }
+
 
 @media(max-width:531px) {
 
