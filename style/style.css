@@ -199,21 +199,8 @@ h2 img{
 
     }
 .principal img {
-            width: 300px;
+            width: 100px;
         }
-
-
-}
-
-@media(max-width:475px) {
-
-
-
-    .principal {
-
-        width: 250px;
-
-    }
 
 
 }
