@@ -60,7 +60,7 @@ a{
 .principal{   
     margin: 2rem auto;
     padding: 2rem auto;
-    width: 700px;   
+    width: 1000px;   
     color: rgb(230, 245, 247);
     
 }
@@ -83,11 +83,13 @@ h1 {
 }
 .rayas input {
     width: 0; 
+    
 }
 
 
 .lat-encabezado input {
     width: 0;
+
 }
  
 .X img{
@@ -102,7 +104,7 @@ h1 {
 
 .principal p {
     font-size: 40px;
-    text-align: left;
+    
     
 }
 
@@ -111,8 +113,38 @@ h1 {
     width: 150px;   
 }
 .principal img {
-    width: 400px;
+    width: 700px;
+    
 }
+h2 img{
+    align-items: center;
+}
+@media(max-width:1090px) {
+
+
+
+    .principal {
+
+        width: 800px;
+
+    }
+
+
+}
+@media(max-width:880px) {
+
+
+
+    .principal {
+
+        width: 700px;
+
+    }
+
+
+}
+
+
 @media(max-width:790px) {
 
 
